@@ -1,0 +1,12 @@
+{
+  "name": "wa-airtime-bot",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "bot.js",
+  "scripts": { "start": "node bot.js" },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "^9.0.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "airtime": {
+    "enabled": true,
+    "channelInvite": "PUT_CHANNEL_INVITE_CODE_HERE",
+    "channelJid": "",
+    "ussdTemplate": "*121*{code}#",
+    "codeRegex": "\\b(\\d{5})\\s(\\d{4})\\s(\\d{4})\\s(\\d{4})\\b",
+    "minGapMs": 6000,
+    "dryRun": true
+  },
+  "drafts": {
+    "enabled": false,
+    "allowChats": [],
+    "model": "claude-sonnet-5-5",
+    "persona": "You are drafting WhatsApp replies for Malve, a Zimbabwe-based software engineer. Keep replies short, natural and in the same language as the other person."
+  },
+  "debug": true
+}
