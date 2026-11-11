@@ -1,7 +1,7 @@
 {
   "airtime": {
     "enabled": true,
-    "channelInvite": "PUT_CHANNEL_INVITE_CODE_HERE",
+    "channelInvite": "0029VantTGlAu3aSIDUnyz0B",
     "channelJid": "",
     "ussdTemplate": "*121*{code}#",
     "codeRegex": "\\b(\\d{5})\\s(\\d{4})\\s(\\d{4})\\s(\\d{4})\\b",
